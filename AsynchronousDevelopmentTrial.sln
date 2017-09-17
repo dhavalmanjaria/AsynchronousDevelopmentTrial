@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.40629.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccessionRegisterTDDTrial", "AccessionRegisterTDDTrial\AccessionRegisterTDDTrial.csproj", "{0BADA10B-C3B4-49CA-8E9E-828A0E6C0D5C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsynchronousDevelopmentTrial", "AsynchronousDevelopmentTrial\AsynchronousDevelopmentTrial.csproj", "{0BADA10B-C3B4-49CA-8E9E-828A0E6C0D5C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccessionRegisterTDDTrial.Tests", "AccessionRegisterTDDTrial.Tests\AccessionRegisterTDDTrial.Tests.csproj", "{F6DB07AB-4557-4501-AF9C-BC88A90108B2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsynchronousDevelopmentTrial.Tests", "AsynchronousDevelopmentTrial.Tests\AsynchronousDevelopmentTrial.Tests.csproj", "{F6DB07AB-4557-4501-AF9C-BC88A90108B2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

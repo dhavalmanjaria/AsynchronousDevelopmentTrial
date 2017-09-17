@@ -52,7 +52,7 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\AccessionRegisterTDDTrial\AccessionRegisterTDDTrial.csproj">
+    <ProjectReference Include="..\AsynchronousDevelopmentTrial\AsynchronousDevelopmentTrial.csproj">
       <Project>{0BADA10B-C3B4-49CA-8E9E-828A0E6C0D5C}</Project>
       <Name>AccessionRegisterTDDTrial</Name>
     </ProjectReference>
